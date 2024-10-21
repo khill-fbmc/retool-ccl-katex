@@ -1,6 +1,6 @@
-## Retool Custom Component Library - KaTeX
+## Retool Custom Component Library - $KaTeX$
 
-Use this to render [$KaTeX$](https://katex.org/) directly in retool.
+Use this to render [KaTeX](https://katex.org/) directly in Retool.
 
 This library is a thin wrapper around the React Component: [react-katex](https://github.com/MatejBransky/react-katex)
 
